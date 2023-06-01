@@ -1,5 +1,3 @@
-Certainly! Here's a template for a README file for your IPL ETL (Extract, Transform, Load) pipeline final project:
-
 # IPL ETL Pipeline
 
 This IPL ETL pipeline is a final project that demonstrates the extraction, transformation, and loading of Indian Premier League (IPL) cricket data. The project aims to provide a systematic process for retrieving IPL data, performing necessary data transformations, and loading the processed data into a desired format or destination.
