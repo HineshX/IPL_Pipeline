@@ -1,0 +1,259 @@
+ID,No.,Name,Team,Nationality,Age,Batting style,Bowling style,Salary,Notes
+1,9,Ambati Rayudu,CSK,India,37,Right-handed,Right-arm off break,661500.0,
+2,21,Ajinkya Rahane,CSK,India,34,Right-handed,Right-arm off spin,49000.0,
+3,31,Ruturaj Gaikwad,CSK,India,26,Right-handed,Right-arm off break,588000.0,
+4,66,Shaik Rasheed,CSK,India,18,Right-handed,Right-arm Leg spin,19600.0,
+5,88,Devon Conway,CSK,New Zealand,31,Left-handed,Right-arm medium,98000.0,Overseas
+6,—,Subhranshu Senapati,CSK,India,26,Right-handed,Right-arm medium,19600.0,
+7,7,MS Dhoni,CSK,India,41,Right-handed,Right-arm medium,1176000.0,Captain
+8,8,Ravindra Jadeja,CSK,India,34,Left-handed,Left-arm slow orthodox,1568000.0,
+9,10,Rajvardhan Hangargekar,CSK,India,20,Right-handed,Right-arm fast-medium,147000.0,
+10,18,Moeen Ali,CSK,England,35,Left-handed,Right-arm off break,784000.0,Overseas
+11,19,Ajay Mandal,CSK,India,27,Left-handed,Left-arm slow orthodox,19600.0,
+12,25,Shivam Dube,CSK,India,29,Left-handed,Right-arm medium,392000.0,
+13,27,Nishant Sindhu,CSK,India,19,Left-handed,Left-arm slow orthodox,58800.0,
+14,29,Dwaine Pretorius,CSK,South Africa,34,Right-handed,Right-arm medium,49000.0,Overseas
+15,55,Ben Stokes,CSK,England,31,Left-handed,Right-arm fast-medium,1592500.0,Overseas
+16,74,Mitchell Santner,CSK,New Zealand,31,Left-handed,Left-arm slow orthodox,186200.0,Overseas
+17,—,Bhagath Varma,CSK,India,24,Right-handed,Right-arm Off-break,19600.0,
+18,46,Prashant Solanki,CSK,India,23,Right-handed,Right-arm leg spin,117600.0,
+19,61,Maheesh Theekshana,CSK,Sri Lanka,22,Right-handed,Right-arm off break,68600.0,Overseas
+20,24,Tushar Deshpande,CSK,India,28,Left-handed,Right-arm medium,19600.0,
+21,33,Mukesh Choudhary,CSK,India,26,Left-handed,Left-arm medium-fast,19600.0,
+22,90,Deepak Chahar,CSK,India,30,Right-handed,Right-arm medium-fast,1372000.0,
+23,98,Simarjeet Singh,CSK,India,25,Right-handed,Right-arm medium-fast,19600.0,
+24,99,Matheesha Pathirana,CSK,Sri Lanka,20,Right-handed,Right-arm medium-fast,19600.0,Overseas
+25,—,Akash Singh,CSK,India,21,Left-handed,Left-arm medium-fast,19600.0,Replacement for Mukesh Choudhary
+26,—,Kyle Jamieson,CSK,New Zealand,28,Right-handed,Right-arm Fast,98000.0,Overseas
+27,—,Sisanda Magala,CSK,South Africa,32,Right-handed,Right-arm fast-medium,49000.0,Overseas; Replacement for Kyle Jamieson
+28,8,Tim David,MI,Australia,27,Right-handed,Right-arm off break,808500.0,Overseas
+29,13,Ramandeep Singh,MI,India,26,Right-handed,Right-arm medium,19600.0,
+30,19,Nehal Wadhera,MI,India,22,Left-handed,Right-arm leg break,19600.0,
+31,45,Rohit Sharma,MI,India,36,Right-handed,Right-arm off break,1568000.0,Captain
+32,63,Suryakumar Yadav,MI,India,32,Right-handed,Right-arm medium,784000.0,
+33,9,Tilak Varma,MI,India,20,Left-handed,Right-arm off break,166600.0,
+34,17,Dewald Brevis,MI,South Africa,20,Right-handed,Right-arm leg break,294000.0,Overseas
+35,33,Piyush Chawla,MI,India,34,Left-handed,Right-arm leg break,49000.0,
+36,42,Cameron Green,MI,Australia,23,Right-handed,Right-arm fast-medium,1715000.0,Overseas
+37,—,Shams Mulani,MI,India,26,Left-handed,Left-arm orthodox,19600.0,
+38,4,Vishnu Vinod,MI,India,29,Right-handed,-,19600.0,
+39,12,Tristan Stubbs,MI,South Africa,22,Right-handed,Right-arm off break,19600.0,Overseas
+40,23,Ishan Kishan,MI,India,24,Left-handed,-,1494500.0,
+41,26,Kumar Kartikeya,MI,India,25,Right-handed,Left-arm spinner,19600.0,
+42,27,Hrithik Shokeen,MI,India,22,Right-handed,Right-arm off break,19600.0,
+43,—,Raghav Goyal,MI,India,22,Left-handed,Left-arm orthodox,19600.0,
+44,5,Jason Behrendorff,MI,Australia,33,Left-handed,Left-arm fast-medium,73500.0,Overseas
+45,14,Duan Jansen,MI,South Africa,23,Right-handed,Left-arm fast,19600.0,Overseas
+46,20,Arshad Khan,MI,India,25,Left-handed,Left-arm medium,19600.0,
+47,21,Riley Meredith,MI,Australia,26,Right-handed,Right-arm fast,49000.0,Overseas; Replacement for Jhye Richardson
+48,22,Jofra Archer,MI,England,28,Right-handed,Right-arm fast,784000.0,Overseas
+49,24,Arjun Tendulkar,MI,India,23,Left-handed,Left-arm medium-fast,29400.0,
+50,34,Chris Jordan,MI,England,34,Right-handed,Right-arm fast-medium,194853.0,Overseas; Replacement for Jofra Archer
+51,60,Jhye Richardson,MI,Australia,26,Right-handed,Right-arm fast,147000.0,Overseas
+52,93,Jasprit Bumrah,MI,India,29,Right-handed,Right-arm fast,1176000.0,
+53,—,Akash Madhwal,MI,India,28,Right-handed,Left-arm medium-fast,19600.0,
+54,—,Sandeep Warrier,MI,India,32,Right-handed,Right-arm medium,19600.0,Replacement for Jasprit Bumrah
+55,18,Manan Vohra,LSG,India,29,Right-handed,Right-arm fast-medium,19600.0,
+56,3,Ayush Badoni,LSG,India,23,Right-handed,Right-arm off break,19600.0,
+57,1,KL Rahul,LSG,India,31,Right-handed,Right-arm medium,1666000.0,Captain
+58,12,Quinton de Kock,LSG,South Africa,30,Left-handed,,661500.0,Overseas
+59,29,Nicholas Pooran,LSG,West Indies,27,Left-handed,Right-arm off break,1568000.0,Overseas
+60,7,Krishnappa Gowtham,LSG,India,34,Right-handed,Right-arm off break,88200.0,
+61,17,Marcus Stoinis,LSG,Australia,33,Right-handed,Right-arm medium,901600.0,Overseas
+62,25,Krunal Pandya,LSG,India,32,Left-handed,Left-arm orthodox,808500.0,
+63,71,Kyle Mayers,LSG,West Indies,30,Left-handed,Right-arm medium,49000.0,Overseas
+64,95,Daniel Sams,LSG,Australia,30,Right-handed,Left-arm fast-medium,73500.0,Overseas
+65,57,Deepak Hooda,LSG,India,28,Right-handed,Right-arm off break,563500.0,
+66,24,Karan Sharma,LSG,India,24,Right-handed,Right-arm off break,19600.0,
+67,46,Prerak Mankad,LSG,India,29,Right-handed,Right-arm medium,19600.0,
+68,33,Mark Wood,LSG,England,33,Right-handed,Right-arm fast,735000.0,Overseas
+69,91,Jaydev Unadkat,LSG,India,31,Right-handed,Left-arm fast-medium,49000.0,
+70,48,Romario Shepherd,LSG,West Indies,28,Right-handed,Right-arm medium-fast,49000.0,Overseas
+71,65,Avesh Khan,LSG,India,26,Right-handed,Right-arm fast,980000.0,
+72,34,Yudhvir Singh,LSG,India,25,Right-handed,Right-arm medium,19600.0,
+73,47,Mohsin Khan,LSG,India,24,Left-handed,Left-arm medium-fast,19600.0,
+74,9,Yash Thakur,LSG,India,24,Right-handed,Right-arm medium-fast,44100.0,
+75,78,Naveen-ul-Haq,LSG,Afghanistan,23,Right-handed,Right-arm medium-fast,49000.0,Overseas
+76,8,Mayank Yadav,LSG,India,20,Right-handed,Right-arm medium,19600.0,
+77,99,Amit Mishra,LSG,India,40,Right-handed,Right-arm leg spin,49000.0,
+78,56,Ravi Bishnoi,LSG,India,22,Right-handed,Right-arm leg spin,392000.0,
+79,15,Swapnil Singh,LSG,India,32,Right-handed,Left-arm orthodox,19600.0,
+80,5,Riyan Parag,RR,India,21,Right-handed,Right-arm leg break,372400.0,
+81,19,Yashasvi Jaiswal,RR,India,21,Left-handed,Right-arm leg break,392000.0,
+82,21,Dhruv Jurel,RR,India,22,Right-handed,—,19600.0,Back-up wicket-keeper
+83,37,Devdutt Padikkal,RR,India,22,Left-handed,—,759500.0,
+84,63,Jos Buttler,RR,England,32,Right-handed,—,980000.0,"Overseas, back-up wicket-keeper"
+85,66,Joe Root,RR,England,32,Right-handed,Right-arm off break,98000.0,Overseas
+86,189,Shimron Hetmyer,RR,West Indies,26,Left-handed,—,833000.0,Overseas
+87,11,Sanju Samson,RR,India,28,Right-handed,Right-arm off-spin,1568000.0,Captain
+88,—,Donavon Ferreira,RR,South Africa,24,Right-handed,—,49000.0,Overseas
+89,—,Kunal Singh Rathore,RR,India,20,Left-handed,—,19600.0,
+90,4,Abdul Basith,RR,India,24,Right-handed,Right-arm off break,19600.0,
+91,98,Jason Holder,RR,West Indies,31,Right-handed,Right-arm medium-fast,563500.0,Overseas
+92,99,Ravichandran Ashwin,RR,India,36,Right-handed,Right-arm off break,490000.0,
+93,—,Akash Vasisht,RR,India,28,Left-handed,Left-arm orthodox,19600.0,
+94,12,KM Asif,RR,India,29,Right-handed,Right-arm medium,29400.0,
+95,15,Kuldip Yadav,RR,India,26,Left-handed,Left-arm fast-medium,19600.0,
+96,18,Trent Boult,RR,New Zealand,33,Right-handed,Left-arm fast-medium,784000.0,Overseas
+97,20,Sandeep Sharma,RR,India,30,Right-handed,Right-arm medium,48699.0,Replacement for Prasidh Krishna
+98,22,Kuldeep Sen,RR,India,26,Right-handed,Right-arm fast,19600.0,
+99,24,Prasidh Krishna,RR,India,27,Right-handed,Right-arm fast-medium,980000.0,
+100,68,Obed McCoy,RR,West Indies,26,Left-handed,Left-arm fast-medium,73500.0,Overseas
+101,96,Navdeep Saini,RR,India,30,Right-handed,Right-arm fast,254800.0,
+102,3,Yuzvendra Chahal,RR,India,32,Right-handed,Right-arm leg break,637000.0,
+103,88,Adam Zampa,RR,Australia,31,Right-handed,Right-arm leg break,147000.0,Overseas
+104,89,Murugan Ashwin,RR,India,32,Right-handed,Right-arm leg break,19600.0,
+105,94,K. C. Cariappa,RR,India,29,Right-handed,Right-arm leg break,29400.0,
+106,13,Faf du Plessis,RCB,South Africa,38,Right-handed,Right-arm leg-break,686000.0,Overseas; Captain
+107,18,Virat Kohli,RCB,India,34,Right-handed,Right-arm medium,1470000.0,
+108,97,Rajat Patidar,RCB,India,29,Right-handed,Right-arm off-break,19600.0,[53]
+109,,Finn Allen,RCB,New Zealand,24,Right-handed,Right-arm off-break,78400.0,Overseas
+110,,Will Jacks,RCB,England,24,Right-handed,Right-arm off-break,313600.0,Overseas[54]
+111,19,Dinesh Karthik,RCB,India,37,Right-handed,Right-arm off-break,539000.0,
+112,27,Anuj Rawat,RCB,India,23,Left-handed,,333200.0,
+113,4,Michael Bracewell,RCB,New Zealand,32,Left-handed,Right-arm off-break,98000.0,Overseas; Replacement for Will Jacks[54]
+114,6,Mahipal Lomror,RCB,India,23,Left-handed,Left-arm orthodox,93100.0,
+115,15,David Willey,RCB,England,33,Left-handed,Left-arm fast-medium,196000.0,Overseas
+116,21,Shahbaz Ahmed,RCB,India,28,Left-handed,Left-arm orthodox,235200.0,
+117,32,Glenn Maxwell,RCB,Australia,34,Right-handed,Right-arm off-break,1078000.0,Overseas
+118,43,Suyash Prabhudessai,RCB,India,25,Right-handed,Right-arm medium,29400.0,
+119,49,Wanindu Hasaranga,RCB,Sri Lanka,25,Right-handed,Right-arm leg-break,1053500.0,Overseas
+120,81,Kedar Jadhav,RCB,India,38,Right-handed,Right-arm off-break,98000.0,Replacement for David Willey[55]
+121,,Manoj Bhandage,RCB,India,24,Left-handed,Right-arm medium-fast,19600.0,
+122,,Sonu Yadav,RCB,India,23,Right-handed,Right-arm medium-fast,19600.0,
+123,1,Siddarth Kaul,RCB,India,33,Right-handed,Right-arm medium,808500.0,
+124,7,Wayne Parnell,RCB,South Africa,33,Left-handed,Left-arm fast-medium,49000.0,Overseas; Replacement for Reece Topley[56]
+125,8,Reece Topley,RCB,England,29,Right-handed,Left-arm fast-medium,186200.0,Overseas[56]
+126,11,Akash Deep,RCB,India,26,Right-handed,Right-arm fast-medium,19600.0,
+127,16,Harshal Patel,RCB,India,32,Right-handed,Right-arm medium,1053500.0,
+128,31,Vijaykumar Vyshak,RCB,India,26,Right-handed,Right-arm medium,19600.0,Replacement for Rajat Patidar[56]
+129,38,Josh Hazlewood,RCB,Australia,32,Left-handed,Right-arm fast-medium,759500.0,Overseas
+130,45,Avinash Singh,RCB,India,24,Right-handed,Right-arm fast,58800.0,
+131,73,Mohammed Siraj,RCB,India,29,Right-handed,Right-arm fast-medium,686000.0,
+132,,Rajan Kumar,RCB,India,26,Left-handed,Left-arm fast-medium,19600.0,
+133,33,Karn Sharma,RCB,India,35,Left-handed,Right-arm leg-break,49000.0,
+134,44,Himanshu Sharma,RCB,India,24,Right-handed,Right-arm leg-break,19600.0,
+135,27,Nitish Rana,KKR,India,29,Left-handed,Right-arm off break,784000.0,Captain[a]
+136,35,Rinku Singh,KKR,India,25,Left-handed,Right-arm off break,53900.0,
+137,1,Mandeep Singh,KKR,India,31,Right-handed,Right-arm medium,49000.0,
+138,—,Jason Roy,KKR,England,32,Right-handed,Right arm-medium,274400.0,Overseas; Replacement for Shakib Al Hasan[57]
+139,—,Litton Das,KKR,Bangladesh,29,Right-handed,Right-arm off-spin,49000.0,Overseas
+140,18,N. Jagadeesan,KKR,India,27,Right-handed,Right-arm medium,88200.0,
+141,21,Rahmanullah Gurbaz,KKR,Afghanistan,21,Right-handed,Right-arm medium fast,49000.0,Overseas
+142,6,Anukul Roy,KKR,India,24,Left-handed,Slow left-arm orthodox spin,19600.0,
+143,12,Andre Russell,KKR,West Indies,35,Right-handed,Right-arm fast-medium,1176000.0,Overseas
+144,25,Venkatesh Iyer,KKR,India,28,Left-handed,Right-arm medium,784000.0,
+145,74,Sunil Narine,KKR,West Indies,35,Left-handed,Right-arm off break,588000.0,Overseas
+146,—,David Wiese,KKR,Namibia,38,Right-handed,Right-arm fast medium,98000.0,Overseas
+147,19,Umesh Yadav,KKR,India,35,Right-handed,Right-arm fast,196000.0,
+148,38,Tim Southee,KKR,New Zealand,34,Right-handed,Right-arm medium fast,147000.0,Overseas
+149,22,Harshit Rana,KKR,India,21,Right-handed,Right-arm fast medium,19600.0,
+150,136,Kulwant Khejroliya,KKR,India,31,Left-handed,Left-arm fast medium,19600.0,
+151,69,Lockie Ferguson,KKR,New Zealand,31,Right-handed,Right-arm fast,980000.0,Overseas
+152,54,Shardul Thakur,KKR,India,31,Right-handed,Right-arm fast medium,1053500.0,
+153,—,Vaibhav Arora,KKR,India,25,Right-handed,Right-arm fast medium,58800.0,
+154,29,Varun Chakravarthy,KKR,India,31,Right-handed,Right-arm leg break,784000.0,
+155,5,Suyash Sharma,KKR,India,20,Right-handed,Right-arm leg break,19600.0,
+156,41,Shreyas Iyer,KKR,India,28,Right-handed,Right-arm leg break,1225000.0,[a]
+157,—,Shakib Al Hasan,KKR,Bangladesh,36,Left-handed,Left-arm off break,147000.0,
+158,42,Shikhar Dhawan,PBKS,India,37,Left-handed,Right-arm off break,808500.0,Captain
+159,35,Shahrukh Khan,PBKS,India,28,Right-handed,Right-arm off break,882000.0,
+160,54,Bhanuka Rajapaksa,PBKS,Sri Lanka,31,Left-handed,Right-arm medium,49000.0,Overseas
+161,20,Matthew Short,PBKS,Australia,27,Right-handed,Right-arm off spin,19600.0,Overseas (replacement for Jonny Bairstow)
+162,5,Harpreet Singh Bhatia,PBKS,India,31,Left-handed,Right-arm medium,39200.0,
+163,,Shivam Singh,PBKS,India,26,Right-handed,Right-arm Off spin,19600.0,
+164,51,Jonny Bairstow,PBKS,England,33,Right-handed,Right-arm off spin,661500.0,Overseas
+165,99,Jitesh Sharma,PBKS,India,29,Right-handed,-,19600.0,
+166,84,Prabhsimran Singh,PBKS,India,22,Right-handed,-,58800.0,
+167,14,Atharva Taide,PBKS,India,23,Left-handed,Slow left arm orthodox,19600.0,
+168,24,Sikandar Raza,PBKS,Zimbabwe,37,Right-handed,Right-arm off spin,49000.0,Overseas
+169,19,Rishi Dhawan,PBKS,India,33,Right-handed,Right-arm medium-fast,53900.0,
+170,23,Liam Livingstone,PBKS,England,29,Right-handed,Right-arm leg break,1127000.0,Overseas
+171,58,Sam Curran,PBKS,England,24,Left-handed,Left-arm medium-fast,1813000.0,Overseas
+172,09,Mohit Rathee,PBKS,India,24,Right-handed,Right-arm Leg spin,19600.0,
+173,12,Raj Bawa,PBKS,India,20,Left-handed,Right-arm fast medium,196000.0,
+174,72,Nathan Ellis,PBKS,Australia,28,Right-handed,Right-arm fast medium,73500.0,Overseas
+175,25,Kagiso Rabada,PBKS,South Africa,28,Left-handed,Right-arm fast,906500.0,Overseas
+176,02,Arshdeep Singh,PBKS,India,24,Left-handed,Left-arm medium-fast,392000.0,
+177,10,Baltej Singh,PBKS,India,32,Right-handed,Right-arm medium,19600.0,
+178,,Vidwath Kaverappa,PBKS,India,24,Right-handed,Right-arm medium-fast,19600.0,
+179,,Gurnoor Brar,PBKS,India,23,Left-handed,Right-arm fast,19600.0,Replacement for Raj Bawa
+180,95,Harpreet Brar,PBKS,India,27,Left-handed,Slow left-arm orthodox,372400.0,
+181,83,Rahul Chahar,PBKS,India,23,Right-handed,Right-arm leg break,514500.0,
+182,28,Ripal Patel,DC,India,27,Right-handed,Right-arm medium,19600.0,
+183,31,David Warner,DC,Australia,36,Left-handed,Right-arm leg break,612500.0,Captain[a] ; Overseas
+184,37,Manish Pandey,DC,India,33,Right-handed,Right-arm medium,235200.0,
+185,9,Rilee Rossouw,DC,South Africa,33,Left-handed,Right-arm off break,450800.0,Overseas
+186,52,Rovman Powell,DC,West Indies,29,Right-handed,Right-arm fast-medium,274400.0,Overseas
+187,100,Prithvi Shaw,DC,India,23,Right-handed,Right-arm off break,735000.0,
+188,22,Yash Dhull,DC,India,20,Right-handed,Right-arm off break,49000.0,
+189,1,Abishek Porel,DC,India,20,Left-handed,,19479.0,
+190,61,Phil Salt,DC,England,26,Right-handed,,196000.0,Overseas
+191,17,Rishabh Pant,DC,India,25,Left-handed,,1568000.0,[a]
+192,97,Sarfaraz Khan,DC,India,25,Right-handed,Right-arm leg break,19600.0,
+193,6,Aman Khan,DC,India,26,Right-Handed,Right-arm medium,19600.0,
+194,8,Mitchell Marsh,DC,Australia,31,Right-handed,Right-arm medium,588000.0,Overseas
+195,20,Axar Patel,DC,India,29,Left-handed,Left-arm orthodox,882000.0,Vice-captain
+196,16,Lalit Yadav,DC,India,26,Right-handed,Right-arm off break,63700.0,
+197,29,Ishant Sharma,DC,India,34,Right-Handed,Right-arm fast-medium,49000.0,
+198,49,Mukesh Kumar,DC,India,29,Right-Handed,Right-arm medium,539000.0,
+199,02,Anrich Nortje,DC,South Africa,29,Right-handed,Right-arm fast,637000.0,Overseas
+200,90,Mustafizur Rahman,DC,Bangladesh,27,Left-handed,Left-arm fast-medium,196000.0,Overseas
+201,,Lungi Ngidi,DC,South Africa,27,Right-handed,Right-arm fast-medium,49000.0,Overseas
+202,71,Khaleel Ahmed,DC,India,25,Right-handed,Left-arm medium,514500.0,
+203,55,Chetan Sakariya,DC,India,25,Left-handed,Left-arm medium-fast,411600.0,
+204,5,Kamlesh Nagarkoti,DC,India,23,Right-Handed,Right-arm fast,98000.0,
+205,46,Praveen Dubey,DC,India,29,Right-handed,Right-arm leg spin,49000.0,
+206,23,Kuldeep Yadav,DC,India,28,Left-handed,Left-arm unorthodox,196000.0,
+207,,Vicky Ostwal,DC,India,20,Left-handed,Left-arm orthodox,19600.0,
+208,94,Aiden Markram,SRH,South Africa,28,Right-handed,Right-arm off break,254800.0,Overseas; Captain
+209,16,Mayank Agarwal,SRH,India,32,Right-handed,Right-arm off break,808500.0,
+210,52,Rahul Tripathi,SRH,India,32,Right-handed,Right-arm medium,833000.0,
+211,88,Harry Brook,SRH,England,24,Right-handed,Right-arm medium,1298500.0,Overseas
+212,14,Samarth Vyas,SRH,India,27,Right-handed,Right-arm leg break,19600.0,
+213,1,Abdul Samad,SRH,India,21,Right-handed,Right-arm leg break,392000.0,
+214,63,Anmolpreet Singh,SRH,India,25,Right-handed,Right-arm off-break,19600.0,
+215,6,Glenn Phillips,SRH,New Zealand,26,Right-handed,Right-arm off break,147000.0,Overseas
+216,45,Heinrich Klaasen,SRH,South Africa,31,Right-handed,Right-arm off spin,514500.0,Overseas
+217,,Upendra Yadav,SRH,India,26,Right-handed,Right-arm off spin,24500.0,
+218,4,Abhishek Sharma,SRH,India,22,Left-handed,Left-arm orthodox,637000.0,
+219,5,Washington Sundar,SRH,India,23,Left-handed,Right-arm off break,857500.0,
+220,70,Marco Jansen,SRH,South Africa,23,Right-handed,Left-arm fast,411600.0,Overseas
+221,8,Nitish Kumar Reddy,SRH,India,20,Right-handed,Right-arm medium-fast,19600.0,
+222,,Sanvir Singh,SRH,India,26,Right-handed,Right-arm medium,19600.0,
+223,,Vivrant Sharma,SRH,India,23,Left-handed,Right-arm Leg spin,254800.0,
+224,15,Bhuvneshwar Kumar,SRH,India,33,Right-handed,Right arm medium-fast,411600.0,Vice-captain
+225,44,T. Natarajan,SRH,India,32,Left-handed,Left arm medium-fast,392000.0,
+226,24,Umran Malik,SRH,India,23,Right-handed,Right arm fast,392000.0,
+227,83,Fazalhaq Farooqi,SRH,Afghanistan,22,Right-handed,Left-arm medium-fast,49000.0,Overseas
+228,9,Kartik Tyagi,SRH,India,22,Right-handed,Right arm fast,392000.0,
+229,,Akeal Hosein,SRH,West Indies,30,Left-handed,Left-arm orthodox,98000.0,Overseas
+230,95,Adil Rashid,SRH,England,35,Right-handed,Right-arm leg break,196000.0,Overseas
+231,,Mayank Dagar,SRH,India,26,Right-handed,Left-arm orthodox,176400.0,
+232,11,Mayank Markande,SRH,India,25,Right-handed,Right-arm leg break,49000.0,
+233,9,Rahul Tewatia,GT,India,30,Left-handed,Right-arm leg break,882000.0,
+234,7,Shubman Gill,GT,India,23,Right-handed,Right-arm off break,784000.0,
+235,10,David Miller,GT,South Africa,33,Left-handed,Right-arm off break,294000.0,Overseas
+236,18,Abhinav Manohar,GT,India,28,Right-handed,Right-arm leg break,254800.0,
+237,23,Sai Sudharsan,GT,India,21,Left-handed,Right-arm leg break,19600.0,
+238,,Kane Williamson,GT,New Zealand,32,Right-handed,Right-arm off break,196000.0,Overseas
+239,,Urvil Patel,GT,India,24,Right-handed,-,19600.0,
+240,,Dasun Shanaka,GT,Sri Lanka,31,Right-handed,Right-arm medium,48699.0,Overseas  Replacement for Kane Williamson
+241,6,Wriddhiman Saha,GT,India,38,Right-handed,-,186200.0,
+242,13,Matthew Wade,GT,Australia,35,Left-handed,-,235200.0,Overseas
+243,14,K. S. Bharat,GT,India,29,Right-handed,-,117600.0,
+244,59,Vijay Shankar,GT,India,32,Right-handed,Right-arm medium,137200.0,
+245,33,Hardik Pandya,GT,India,29,Right-handed,Right-arm medium-fast,1470000.0,Captain
+246,19,Rashid Khan,GT,Afghanistan,24,Right-handed,Right-arm leg break,1470000.0,"Overseas,"
+247,1,Ravisrinivasan Sai Kishore,GT,India,26,Left-handed,Left-arm orthodox,294000.0,
+248,22,Jayant Yadav,GT,India,33,Right-handed,Right-arm off-break,166600.0,
+249,15,Noor Ahmad,GT,Afghanistan,18,Right-handed,Left-arm unorthodox,29400.0,Overseas
+250,11,Mohammed Shami,GT,India,32,Right-handed,Right-arm fast,612500.0,
+251,133,Yash Dayal,GT,India,25,Left-handed,Left-arm fast-medium,313600.0,
+252,8,Alzarri Joseph,GT,West Indies,26,Right-handed,Right-arm fast medium,235200.0,Overseas
+253,12,Pradeep Sangwan,GT,India,32,Right-handed,Left-arm medium,19600.0,
+254,04,Darshan Nalkande,GT,India,24,Right-handed,Right-arm fast-medium,19600.0,
+255,,Shivam Mavi,GT,India,24,Right-handed,Right-arm fast,588000.0,
+256,82,Josh Little,GT,Ireland,23,Right-handed,Left-arm medium-fast,431200.0,Overseas
+257,27,Mohit Sharma,GT,India,34,Right-handed,Right-arm medium,49000.0,
+258,,Odean Smith,GT,West Indies,26,Right-handed,Right-arm fast-medium,49000.0,Overseas
